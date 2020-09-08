@@ -1,5 +1,5 @@
 #无重复字符的最长子串
-![Alt text](https://github.com/DVampire/leetcode_solution/blob/master/0003_lengthOfLongestSubstring/images/1.png)
+![Alt text](./images/1.png)
 
 思路：滑动窗口
 
